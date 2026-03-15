@@ -56,6 +56,10 @@ plt.legend(['Regression Line','Data points'])
 plt.show()
 ```
 
-# Result
+
 
 # Output 
+![image](https://github.com/25014905/PROB-EXP-3/blob/main/WhatsApp%20Image%202026-03-15%20at%205.56.13%20PM%20(1).jpeg?raw=true)
+
+#RESULT
+ analysing  given data using coeffificient of correlation and regression line is completed.
